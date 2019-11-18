@@ -67,7 +67,7 @@ TODO
 
 Installation
 ------------
-While nexus is stopped, copy target/nexus-blobstore-azure-cloud-0.4.0-SNAPSHOT-shaded.jar in the deploy folder in your
+While nexus is stopped, copy target/nexus-blobstore-azure-cloud-0.4.0-SNAPSHOT.jar in the deploy folder in your
 nexus 3 distribution. Start nexus and the plugin will be installed.
 
 Log in as admin and create a new blobstore, selecting 'Azure Cloud Storage' as the type.
